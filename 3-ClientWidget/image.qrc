@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>call.png</file>
+        <file>back.jpg</file>
+        <file>back1.jpg</file>
+        <file>back2.jpg</file>
+    </qresource>
+</RCC>
